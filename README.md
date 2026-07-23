@@ -253,3 +253,14 @@ or via
 ```
 /openapi.json
 ```
+
+## Live Demo
+
+**Deployed API**
+https://flock-energy-api-assignment.onrender.com
+
+**Swagger UI**
+https://flock-energy-api-assignment.onrender.com/docs
+
+**OpenAPI Specification**
+https://flock-energy-api-assignment.onrender.com/openapi.json
