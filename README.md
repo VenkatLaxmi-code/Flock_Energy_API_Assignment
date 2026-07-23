@@ -264,3 +264,5 @@ https://flock-energy-api-assignment.onrender.com/docs
 
 **OpenAPI Specification**
 https://flock-energy-api-assignment.onrender.com/openapi.json
+
+> **Note:** This application is hosted on Render's free tier. The first request after a period of inactivity may take 30–60 seconds while the service wakes up.
